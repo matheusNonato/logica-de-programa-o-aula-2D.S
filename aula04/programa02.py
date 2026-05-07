@@ -50,4 +50,5 @@ while True:
         break
     else:
         continue
+        print("lista_sorteados")
 print ("Fim do programa.")
