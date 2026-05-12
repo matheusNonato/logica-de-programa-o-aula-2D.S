@@ -65,5 +65,5 @@ for i in range(len(numeros)):
 numeros2 = [10,20,30,40,50]       
 
 # list compriension
-numeros2 = [n * 2 if n > 20 else n for n in numero2]
+numeros2 = [n * 2 if n > 20 else n for n in numeros2]
 print(numeros)
