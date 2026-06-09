@@ -1,0 +1,14 @@
+[
+    {
+        "id": 2,
+        "modelo": "Lancer",
+        "preco": 5500000.0,
+        "marca": "Mithsubichi"
+    },
+    {
+        "id": 3,
+        "modelo": "Toyota",
+        "preco": 100000.0,
+        "marca": "Toyota"
+    }
+]
